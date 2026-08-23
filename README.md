@@ -1,2 +1,3 @@
-# markov-chain-text-generator
-N-gram statistical Markov Chain model for realistic procedural text synthesis.
+# Markov Chain Text Generator
+
+N-gram transition probability matrix for text generation.
